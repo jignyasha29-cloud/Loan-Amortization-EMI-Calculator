@@ -1,3 +1,4 @@
+Project Overview
 This project is a Loan Financial Model developed using financial modelling concepts to analyze loan repayment, interest, principal, and outstanding loan balances over the loan tenure.The model helps understand how a loan is repaid over time and provides a structured view of the borrower's payment obligations through an amortization schedule.
 
 Objectives
