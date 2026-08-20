@@ -1,4 +1,5 @@
 Project Overview
+
 This project is a Loan Financial Model developed using financial modelling concepts to analyze loan repayment, interest, principal, and outstanding loan balances over the loan tenure.The model helps understand how a loan is repaid over time and provides a structured view of the borrower's payment obligations through an amortization schedule.
 
 Objectives
@@ -19,10 +20,12 @@ Financial Concepts that demonstrates practical application of:
 - Financial Modelling
 
 Business Application
+
 Loan financial modelling can be used by banks, financial institutions, lending companies and individuals to evaluate repayment obligations and understand the financial impact of different borrowing scenarios.
 The model provides a simple way to analyse how changes in interest rate, loan amount, and tenure affect total repayment and interest costs.
 
 Learning Outcomes
+
 Through this project, I developed practical understanding of:
 Financial modelling
 Loan repayment calculations
