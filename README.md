@@ -22,7 +22,6 @@ Loan financial modelling can be used by banks, financial institutions, lending c
 The model provides a simple way to analyse how changes in interest rate, loan amount, and tenure affect total repayment and interest costs.
 
 Learning Outcomes
-
 Through this project, I developed practical understanding of:
 Financial modelling
 Loan repayment calculations
